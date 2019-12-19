@@ -1,0 +1,5 @@
+// This file is the descriptor for the Python Notebook Template dss-plugin-design-of-experiments_tutorial
+{
+    "label": "pyDOE tutorial on design of experiments",
+    "shortDesc": "Illustrates how to design experiments using the pyDOE python library."
+}
